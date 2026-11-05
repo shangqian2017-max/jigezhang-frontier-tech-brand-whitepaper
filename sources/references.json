@@ -1,0 +1,1170 @@
+[
+  {
+    "id": "MIIT",
+    "publisher": "工业和信息化部等七部门",
+    "title": "关于推动未来产业创新发展的实施意见",
+    "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/yj/art/2024/art_ad15b0f08a714fd8888c0e31468b8c54.html",
+    "note": "目标不是完成事实，也不是行业统计口径。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "EIC",
+    "publisher": "European Innovation Council",
+    "title": "FAQs EIC Pre Accelerator deep tech definition",
+    "url": "https://eic.ec.europa.eu/eic-frequently-asked-questions/faqs-eic-pre-accelerator_en",
+    "note": "项目语境下的定义，不主张为全球统一统计标准。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "OECDVC",
+    "publisher": "OECD，数据Preqin/OECD.AI",
+    "title": "Venture capital investments in artificial intelligence through 2025",
+    "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/02/venture-capital-investments-in-artificial-intelligence-through-2025_3bcb227f/a13752f5-en.pdf",
+    "note": "不含全部政府和企业内部投入；数据会回补。73%不能改写为73%的企业得到大额融资。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "CSRC",
+    "publisher": "中国证监会",
+    "title": "关于在科创板设置科创成长层 增强制度包容性适应性的意见",
+    "url": "https://www.csrc.gov.cn/csrc/c100028/c7565137/content.shtml",
+    "note": "不代表普遍降低上市门槛；没有要求上市前更换Logo，不证明品牌升级增加上市概率。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "NVIDIA",
+    "publisher": "NVIDIA / SEC",
+    "title": "2026财年Form 10 K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+    "note": "业务 平台及客户段 采用财年语境",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "ARM",
+    "publisher": "Arm / SEC",
+    "title": "2023年8月21日Form F 1",
+    "url": "https://investors.arm.com/node/6546/html",
+    "note": "商业模式与客户相关段 不作为此后全部业务",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "VBOTPRODUCT",
+    "publisher": "Vbot",
+    "title": "超能机器狗产品说明",
+    "url": "https://www.vbot.cn/Detail",
+    "note": "参数为厂商自述 条件须保留 未运行产品",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "GEO",
+    "publisher": "Aggarwal等",
+    "title": "GEO Generative Engine Optimization",
+    "url": "https://arxiv.org/abs/2311.09735",
+    "note": "2024研究受控条件 不作为全平台效果承诺",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "GOOGLEAI",
+    "publisher": "Google Search Central",
+    "title": "Optimizing for generative AI features",
+    "url": "https://developers.google.com/search/docs/fundamentals/ai-optimization-guide",
+    "note": "适用于Google搜索相关功能 不泛化国内平台",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "PLANFINAL",
+    "publisher": "新华社 / 北京市人大官网转载",
+    "title": "十五五规划纲要 正式文本",
+    "url": "https://www.bjrd.gov.cn/zyfb/zt/14jqgrd04chybjdbthdztbd/wjbg/202603/t20260314_4557219.html",
+    "note": "2026-03-14转载；核读第4、5、7、8、12章相关节；非草案",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "DALICLOUD",
+    "publisher": "Alibaba Group / HKEX",
+    "title": "Fiscal Year 2026 Annual Report",
+    "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0618/2026061800844.pdf",
+    "note": "报告署日2026-05-20；HKEX发布2026-06-18；财年截至2026-03-31；印刷页14—15 AI+Cloud；77 Cloud segment；F-38收入说明；含内部/非公有云等口径；未读完整财务附注，不采用其二手市占结论",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "DMSFTCLOUD",
+    "publisher": "Microsoft",
+    "title": "2026 Annual Report",
+    "url": "https://www.microsoft.com/investor/reports/ar26/",
+    "note": "股东信2026-10-14；财年截至2026-06-30；Financial Review > Business > Intelligent Cloud；Azure revenue drivers；Azure AI Foundry段；云、Azure及AI收入不同；未审计具体客户ROI，股东信目标为管理层表述",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "DBAIDUCLOUD",
+    "publisher": "Baidu",
+    "title": "2025 Form 20-F",
+    "url": "https://ir.baidu.com/static-files/f655f8c4-bfaa-41c5-872c-005087bce94f",
+    "note": "2026-03-17；报告期2025；Item 4B Business Overview > AI Cloud/Qianfan及Sales；Risk Factors > 新AI业务披露框架；Results of Operations > 2025收入说明；仅读相关业务与风险段，未复现模型性能或客户效果",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "DOPENCASE",
+    "publisher": "OpenAI",
+    "title": "Morgan Stanley uses AI evals to shape the future of financial services",
+    "url": "https://openai.com/index/morgan-stanley/",
+    "note": "页面未显示发布日期；2026-10-31核读；Building a foundation；Scaling success；98% adoption；厂商客户案例；98%指顾问团队活跃使用，不等于全员或投资收益；本轮未复现",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "DOPENPLANS",
+    "publisher": "OpenAI",
+    "title": "Business Pricing",
+    "url": "https://openai.com/business/pricing/",
+    "note": "动态页，2026-10-31核读；Pricing > business and enterprise plans；ChatGPT/API入口；未取得特定客户合同；不引用动态价格或据页面推断地域可用性",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "DUBTECH",
+    "publisher": "UBTECH / HKEX",
+    "title": "Annual Results Announcement for 2025",
+    "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0331/2026033102607.pdf",
+    "note": "2026-03-31；报告期2025；印刷页10人形销量/工位；14物流交付模式；36收入；27应收款风险；年报大文件未读取，改读54页原业绩公告的相关页；全场景销量不等于全部工厂长期自主运营",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "DUNITREE",
+    "publisher": "Unitree官方商店",
+    "title": "Unitree G1",
+    "url": "https://shop.unitree.com/products/unitree-g1",
+    "note": "动态页，2026-10-31核读；商品说明Please Note与G1 EDU询价段；价格、税运费及供货会变；商品页不证明工业应用效果",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "DDEMOHLM",
+    "publisher": "Fu等原研究作者 / arXiv",
+    "title": "DemoHLM: From One Demonstration to Generalizable Humanoid Loco-Manipulation",
+    "url": "https://arxiv.org/abs/2510.11258",
+    "note": "2025-10-13 v1；摘要末段、Submission history；本轮仅核摘要，不采性能数字；预印本不冒称已同行评审，不外推工业验收",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "DBOSTON",
+    "publisher": "Boston Dynamics，含National Grid具名受访者",
+    "title": "Spot Becomes Part of the Team at National Grid",
+    "url": "https://bostondynamics.com/case-studies/spot-becomes-part-of-the-team-at-national-grid/",
+    "note": "页未标发布日期；叙述含2022培训，属历史案例；2026-10-31核读；Regular Use、Peace of Mind、Just the Beginning；厂商案例非独立对照，不能宣称2026部署规模或无需人工；不采用节省成本推测",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "DABBROBOT",
+    "publisher": "ABB",
+    "title": "Annual Reporting Suite 2025",
+    "url": "https://library.e.abb.com/public/b292a84b973f444a821a629d668bdf1f/ABB%20Annual%20Reporting%20Suite%202025%20-%20Consolidated%20file.pdf",
+    "note": "2026年发布；报告期2025；2026-10-31核读；Robotics段；Financial Report印刷页13 Robotics Business及Discontinued Operations；读取经官方签名下载地址；未核机器人业务交易最终交割；收入不等于方案绩效",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "DHUAWEIASCEND",
+    "publisher": "Huawei",
+    "title": "2025 Annual Report网页",
+    "url": "https://www.huawei.com/en/annual-report/2025",
+    "note": "2026年发布；报告期2025；2026-10-31核读；生态段Kunpeng and Ascend；Developers及CANN/Mind开放段；完整36MB PDF未读取；开发者数非付费客户/活跃度，不推断业务效果",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "DASCENDSTACK",
+    "publisher": "Ascend Community",
+    "title": "Ascend Community软硬件与开发入口",
+    "url": "https://www.hiascend.com/en-sg/",
+    "note": "动态页，2026-10-31核读；AI Foundation层级；Hardware、CANN、MindSpeed/MindIE/MindCluster及开发工具；导航有Coming Soon；不把所有页面型号视为当期可交付，不采吞吐和时延形容词",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "DTSMCFOUNDRY",
+    "publisher": "TSMC",
+    "title": "2025 Annual Report Website",
+    "url": "https://investor.tsmc.com/static/annualReports/2025/english/index.html",
+    "note": "2026年发布；报告期2025；20-F于2026-04-16提交；Letter to Shareholders、2.1 Introduction、工艺及CoWoS段；客户数不证明任一具体终端效果；未来产能/工艺时间表为计划，不采用Foundry2.0市占推导",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "DSMICFOUNDRY",
+    "publisher": "SMIC / HKEX",
+    "title": "2025 Annual Report",
+    "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0408/2026040801181.pdf",
+    "note": "2026-04-08披露；报告期2025；印刷页17—20业务/工艺；22—24风险；26出货/收入；不推测匿名客户；不采企业排名为本研究独立结论；未审阅全部附注",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "DASMLEQUIPMENT",
+    "publisher": "ASML / SEC",
+    "title": "2025 Q4 and full-year results presentation",
+    "url": "https://www.sec.gov/Archives/edgar/data/937966/000162828026003701/a2026_01x28xpresentation.htm",
+    "note": "2026-01-28；报告期2025；第7张Business summary；第12张Backlog定义；年报站产品亮点另核；订单积压非已确认收入；2026/2030预测不作事实；不同设备不能按台数直接比产能",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "PMBASF",
+    "publisher": "BASF",
+    "title": "Performance Materials Factbook",
+    "url": "https://www.basf.com/global/en/investors/calendar-and-publications/factbook/segments/materials/performance-materials",
+    "note": "2026-05-28 页面标记Last Update；Portfolio；Market position and main competitors；R&D；2025 investments；未把公司自称前三转作独立排名；没有从扩产推断需求。页面相关正文已读。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "PMKINGFA",
+    "publisher": "金发科技",
+    "title": "2025年年度报告",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-04-21/1225132815.PDF",
+    "note": "2026-04-21 披露；报告期2025；第三节主营业务 图1及表；印刷24—25页产销量表；报告期销量不是产能；公司应用方向不等于对每个应用逐一完成客户验收。相关页已读，未审计原账。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "PMFARSOON",
+    "publisher": "Farsoon Technologies",
+    "title": "Farsoon and Brose are setting new standards in metal 3D printing",
+    "url": "https://www.farsoon-gl.com/news/farsoon-and-brose-are-setting-new-standards-in-metal-3d-printing/",
+    "note": "2025-11-13；正文系统介绍 图2说明及Brose引述；供应商合作案例，有利益关系；效益与优越性为案例参与方说法，非独立对照试验。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "PMDMG",
+    "publisher": "DMG MORI",
+    "title": "Rapid response production thanks to flexible automation",
+    "url": "https://en.dmgmori.com/news-and-media/customer-stories/interroll-trommelmotoren-gmbh",
+    "note": "2025-07-31；Individual motors；Automated production；Complete machining；客户特定生产案例；不把5天交付或效率改善推广到全部工业任务。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "PECATL",
+    "publisher": "CATL",
+    "title": "CATL Releases 2025 Annual Report",
+    "url": "https://www.catl.com/en/news/6773.html",
+    "note": "2026-03-10 报告期2025；Global leadership strengthened；energy storage相关段落；公司年报发布稿，不是本研究审计；其转引SNE排名和客户节电口径不作为独立实测。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "PELONGI",
+    "publisher": "隆基绿能/隆基氢能",
+    "title": "乌兹别克斯坦绿氢项目成功产氢",
+    "url": "https://www.longi.com/cn/news/hydrogen-project-in-uzbekistan/",
+    "note": "2025-07-03；成功产氢第1段及系统开机测试段；供应商自述和合作方引述；启动测试不是长期运营及完整项目投产，年产量和减排量不可转成已实现值。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "PENEL",
+    "publisher": "Nel ASA",
+    "title": "Annual Report 2025",
+    "url": "https://nelhydrogen.com/wp-content/uploads/2026/02/Annual-Report-2025.pdf",
+    "note": "2026-02 报告文件；报告期2025；Group Financial review；Nel Alkaline Production capacity development；PEM Financial review；集团与分部口径分开；NOK99million为碱性订单新增，不是集团总额。未来扩产和重启有条件。相关段已读，非逐页审计。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "PECFS",
+    "publisher": "Commonwealth Fusion Systems",
+    "title": "Google and Commonwealth Fusion Systems Sign Strategic Partnership",
+    "url": "https://www.cfs.energy/news-and-media/google-and-commonwealth-fusion-systems-sign-strategic-partnership/",
+    "note": "2025-06-30；正文PPA段；early2030s；SPARC Q>1及ARC段；交易参与方发布；协议不是已售电或并网成功；预期时间不升级为事实，不采自称最大或首创排名。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "PEIEA",
+    "publisher": "International Energy Agency",
+    "title": "Global Hydrogen Review 2026 Executive summary",
+    "url": "https://www.iea.org/reports/global-hydrogen-review-2026/executive-summary",
+    "note": "2026-06-18 报告发布；Low emissions hydrogen progressed；Demand remains crucial missing piece；全球氢需求与低排放氢产量不同；2026及2030数值有预测或项目状态限定，不据之推公司订单。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "PSNASA",
+    "publisher": "NASA Goddard Space Flight Center/JPL",
+    "title": "NASAs SPHEREx and PUNCH Missions Launch from Vandenberg Space Force Base",
+    "url": "https://svs.gsfc.nasa.gov/14803",
+    "note": "2025-03-17 发布；事件2025-03-11；正文开头 发射信息及原始影像说明；任务机构原始记录支持该次使用，不外推未来系统或行业份额。本轮读取正文，未做影像审美评价。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "PSROCKET",
+    "publisher": "Rocket Lab Corporation",
+    "title": "2025 Form10-K",
+    "url": "https://investors.rocketlabcorp.com/static-files/57a8d0da-27ff-499c-8d85-18907743b7a8",
+    "note": "2026-02-26 披露；报告期2025；Business Space Systems；Key factors Neutron；财务分部说明；该稿中的Q4 2026首次发射是当时预期，不作为当前已发生事件。含HASTE亚轨道任务的数字不称全部轨道发射；发射数与收入不等同。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "PSDJI",
+    "publisher": "DJI Enterprise",
+    "title": "DJI Matrice400 release",
+    "url": "https://enterprise.dji.com/news/detail/matrice-400-release",
+    "note": "2025-06-10；开头及Extended Range Reliable Performance；产品参数为厂家说明；本底稿不使用未展开工况的59分钟和6kg作性能比较，不从发布推部署或效果。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "PSDJIUSE",
+    "publisher": "DJI Enterprise",
+    "title": "Deploying Enterprise Solutions Across Energy",
+    "url": "https://enterprise-insights.dji.com/deploying-enterprise-solutions-across-energy",
+    "note": "活动2026-01-08 页面信息；无另列发布日期；活动介绍及USAirUnmanned ColumbiaREA案例段；供应商活动介绍；未独立观察案例、观看完整演示或验证ROI，不以宣传语当测量结果。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "PSROCKETUPD",
+    "publisher": "Rocket Lab Corporation",
+    "title": "Rocket Lab Provides Update on Neutron Development and Adjusts Target Launch Timing",
+    "url": "https://investors.rocketlabcorp.com/node/13401/pdf",
+    "note": "2026-10-14；官方PDF第1页开头；Forward Looking Statements；公司前瞻时间表，不是已首飞或保证完成；HTML访问403，读取官方PDF版本。未采用另一出现不匹配跳转的8-K链接。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "PSEHANGQ",
+    "publisher": "EHang Holdings Limited",
+    "title": "Second Quarter 2026 Unaudited Financial Results",
+    "url": "https://ir.ehang.com/news-releases/news-release-details/ehang-reports-second-quarter-2026-unaudited-financial-results/",
+    "note": "2026-08-25；Deepening Domestic Operational Readiness；Management Remarks；Business Outlook；公司未经审计披露。设备交付、飞行数、商业运营概括不等同普遍公众售票；不把管理层关于事故和监管因果的判断当独立监管结论。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "PSEHANGHUB",
+    "publisher": "EHang Holdings Limited",
+    "title": "EHang Establishes Overseas Regional Hub in Thailand to Support International eVTOL Deployment Across Southeast Asia and Other Emerging Markets",
+    "url": "https://ir.ehang.com/news-releases/news-release-details/ehang-establishes-overseas-regional-hub-thailand-support",
+    "note": "2026-10-30；区域中心与25架计划段；near-term developments；适用当地规则条件段；About EHang；25架部署和11月至年末进展是计划。关于资质下运行的概括未证明全部站点公众售票；本文未提供中国售票启动范围。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "FBIO01",
+    "publisher": "上海凯赛生物技术股份有限公司 / 巨潮资讯",
+    "title": "2025年年度报告",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-04-24/1225169284.PDF",
+    "note": "2026-04-24（报告期2025年度）；已只读下载268页PDF，在内存定向读取第15—16、34—35、42页；重点为第三节经营模式、主营业务分产品表、产销量说明和原材料表。；发行人年报相关段，非本研究现场或LCA复现。未通读财务附注；不采纳年报引用的远期潜在市场规模、领先排名或所有生物制造均低成本的泛化判断。生物法、原料生物基与生命周期减碳须分开。 分产品毛利按第34页收入成本分析表；第35页注明该表未列停工成本9200.64万元，不等于财报全部成本、企业整体毛利或净利润。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "FBIO02",
+    "publisher": "蓝晶微生物 Bluepha",
+    "title": "公司及PHA产品首页",
+    "url": "https://www.bluepha.com/home",
+    "note": "未标明当前页面更新日期；2026-10-31访问；页面正文L0—31，PHA、产品系列、加工应用及BioFAB1；L47—72后半出现模板占位，未用其作为平台成熟证据。；产能自述不是实际产量、出货、利用率、收入或盈利；中文版与英文版产能口径冲突，见FBIO03，不给唯一最新在产能力。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "FBIO03",
+    "publisher": "Bluepha",
+    "title": "About Us / Production Site",
+    "url": "https://www.bluepha-en.com/about-us-202212",
+    "note": "页面未标发布日期；2026-10-31访问；What is Bluepha、Production Site两节；英文正文写annual PHA capacity of 25000 tonnes。；本轮只核到官网公开表述差异，未核实工程验收、投产范围及日期。不能用英文较大的数覆盖中文较小数，也不推定虚假；应列待企业确认版本。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "FBIO04",
+    "publisher": "蓝晶微生物 Bluepha",
+    "title": "蓝晶PHA BP330-05化学品技术数据单 V3.0",
+    "url": "https://bluephadownload.obs.cn-north-4.myhuaweicloud.com/%E8%93%9D%E6%99%B6%E2%84%A2%20PHA%20BP330-05%E5%8C%96%E5%AD%A6%E5%93%81%E6%8A%80%E6%9C%AF%E6%95%B0%E6%8D%AE%E5%8D%95%20V3.0.pdf",
+    "note": "2023-10-08修订；2026-10-31访问；第1/2页，产品概述、典型物理性能表及表下注；表注明典型特征值不是具体产品规格参数。；这是特定牌号历史版本的厂商数据单；不是所有PHA的统一规格、现场降解表现或独立认证复核。认证名称不代替原证书、有效期及使用条件。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "FBIO05",
+    "publisher": "Ginkgo Bioworks / SEC",
+    "title": "Form 10-K for year ended December 31 2025",
+    "url": "https://www.sec.gov/Archives/edgar/data/1830214/000162828026012346/dna-20251231.htm",
+    "note": "2026-02-26签署；报告期截至2025-12-31；Business L306—320、L345—357；Cell Engineering Revenue L1825—1843及财务注释L2627；风险L984—988；签署L2533。；细胞工程收入涵盖多个终端领域，不能全算工业生物制造收入。远程排障比例与未来自主能力是预期；平台项目或研究费收入不等于客户已量产、复购或产品成功。非本轮客户访谈。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "FBIO06",
+    "publisher": "Twist Bioscience / SEC",
+    "title": "Form 10-K for fiscal year ended September 30 2025",
+    "url": "https://www.sec.gov/Archives/edgar/data/1581280/000158128025000025/twst-20250930.htm",
+    "note": "2025-11-17提交；财年截至2025-09-30；Item1 Business L212—215、L252；收入分产品表L1472—1478/财务注释L2277—2282；经营损失与净亏损L2862—2879；风险L588—593。；总收入中NGS工具占55%，不能把公司全部收入当工业生物制造规模；净亏损也受业务出售等项目影响。厂商对低成本/竞争优势的表述不是本研究复现，不能将合成基因交付等同客户发酵量产。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "FQUANT01",
+    "publisher": "科大国盾量子技术股份有限公司 / 巨潮资讯",
+    "title": "2025年年度报告",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-03-25/1225028050.PDF",
+    "note": "2026-03-25（报告期2025年度）；已只读下载261页PDF，在内存定向读取第15—19、37—38页：主要业务、盈利销售模式、分行业收入及产销量脚注。；公司收入与设备销售证明部分供给及交易，不证明客户算法优于经典方案。行业趋势与领先判断是发行人观点；不照抄其市场预测、路线国家排名或通用实用化时间。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "FQUANT02",
+    "publisher": "本源量子 Origin Quantum",
+    "title": "产品中心",
+    "url": "https://originqc.com.cn/zh/product",
+    "note": "未标当前页面发布日期；2026-10-31访问；L4—24总体架构；L61—86整机和云；L101—151测控及编程工具；L164—179应用软件。；产品存在及公司所述适用场景不是独立性能验收、销售收入或客户采购回报。首页代际/型号与云控制台可能随时变化；本轮云控制台超时，未执行算法、读取后台或核验当前在线机时。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "FQUANT03",
+    "publisher": "IBM Quantum",
+    "title": "Hardware for useful quantum computing",
+    "url": "https://www.ibm.com/quantum/hardware",
+    "note": "未标当前页面发布日期；2026-10-31访问；Processors L55—100；System Two L124—142；Starling L148—153；当前roadmap文字L165—170。；厂商当前页面宣称2026年已交付advantage，本轮未核其具体基准、经典比较和任务适用范围，不将该宣传当通用商业优势。装机/访问/线路数不等于付费客户商业收益，未核量子专项收入。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "FQUANT04",
+    "publisher": "IBM Quantum",
+    "title": "How IBM will build the world’s first large-scale fault-tolerant quantum computer",
+    "url": "https://www.ibm.com/quantum/blog/large-scale-ftqc",
+    "note": "2025-06-10；标题、摘要及L20—51；后续模块化、纠错架构路线说明。；预测与公司研究路线不等于交付；不采“世界第一/最可行”的竞争级宣传，不用逻辑比特与他家物理比特直接排名，也不据此断言容错日期已兑现。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "FQUANT05",
+    "publisher": "Qnami",
+    "title": "ProteusQ Quantum Microscope System",
+    "url": "https://qnami.ch/portfolio/proteusq/",
+    "note": "未标当前页面发布日期；2026-10-31访问；L62—84系统及产品组成；L113—150样品/扫描/光学/软件条件；L166—174测量模式；L179—201应用与论文入口。；规格和性能为厂商资料，本轮未测量复现；atomic scale/first等营销表述未独立验证，不写成原子空间分辨率或行业第一。没有公开营收/利润的可核证据。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "FQUANT06",
+    "publisher": "Qnami",
+    "title": "Unveiling Critical Behavior in High-Tc Ferromagnets with NV Magnetometry",
+    "url": "https://qnami.ch/portfolio/unveiling-critical-behavior-in-high-tc-ferromagnets-with-nv-magnetometry/",
+    "note": "页面无更新日期；所链论文为Nano Letters 2025,25(4),1473–1479；2026-10-31访问；L62—70，明确由Oak Ridge National Lab的Benjamin Lawrie领衔团队使用ProteusQ，并链原论文DOI 10.1021/acs.nanolett.4c05401。；本轮读取的是供应商研究说明及原论文书目信息，尚未全文复核论文方法；仅证明公开具名使用线索，不证明采购金额、独立验收或工业量产价值。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "FQUANT07",
+    "publisher": "NIST",
+    "title": "NIST Releases First 3 Finalized Post-Quantum Encryption Standards",
+    "url": "https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards",
+    "note": "2024-08-13；L115—127、L138—154；算法和密码迁移说明。；美国标准化语境，不推出所有国家采用义务；本文不做安全产品合规判断。该页的量子威胁预测不是实际破解当前主流密码的证据。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "VHOME",
+    "publisher": "Vbot 维他动力",
+    "title": "官网首页",
+    "url": "https://www.vbot.cn/",
+    "note": "未标页面更新时间；关于我们、媒体评价、App入口；本地vbot-home.html；首家/首款/纪录是自述；6540为预售口径。页面仍含2026年4月将交付的历史未来时，不能作当前交付结论。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "VABOUT",
+    "publisher": "Vbot 维他动力",
+    "title": "关于Vbot",
+    "url": "https://www.vbot.cn/About",
+    "note": "未标页面更新时间；企业定义、团队、创始人、投资者、订购；本地vbot-about.html；履历为官网自述，未独立审计；投资者标识不背书每项能力。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "VFIN",
+    "publisher": "高鹄资本（交易参与方）",
+    "title": "Vbot维他动力完成近5亿元Pre-A轮融资，超能机器狗开启规模交付",
+    "url": "https://www.cygnusequity.com/news/1180.html",
+    "note": "页未展示完整日期；正文事件2026年5月；融资用途、5月8日交付、500台下线、北京上海体验店段；有商业关系，非独立审计。未来产能/覆盖是计划；下线不等于终端验收；不能写成融资用于品牌升级或品牌促成融资。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "CPRODUCT",
+    "publisher": "OpenAI",
+    "title": "Codex | AI Coding Partner from OpenAI",
+    "url": "https://openai.com/codex/",
+    "note": "未标当前页发布日期；2026-10-31读取；H1；engineering/multi-agent/cloud/review四段；Same agent across…；页末ChatGPT app；浏览器同时读取中文页；营销页是厂商当前表达；不采动态地区价格、客户证言数字及最高效等比较主张；不替代当前功能文档。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "CGLOSSARY",
+    "publisher": "OpenAI / ChatGPT Learn",
+    "title": "Glossary",
+    "url": "https://learn.chatgpt.com/docs/glossary",
+    "note": "动态文档；2026-10-31 OpenAI Docs search后fetch全文；Codex、Model、Codex CLI、IDE extension、Cloud、SDK、Diff、Review pane条目；术语表支持命名关系，不代表所有账户、地区或客户端功能完全一致。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "CAPP",
+    "publisher": "OpenAI / ChatGPT Learn",
+    "title": "ChatGPT desktop app",
+    "url": "https://learn.chatgpt.com/docs/app",
+    "note": "动态文档；2026-10-31 fetch全文；Why use the desktop app；Get started步骤3—4；不能把2026年2月独立Codex app发布说明全部写成当前桌面架构；安装可用性和权限需单独核定。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "CREVIEW",
+    "publisher": "OpenAI / ChatGPT Learn",
+    "title": "Code review",
+    "url": "https://learn.chatgpt.com/docs/code-review",
+    "note": "动态文档；2026-10-31 fetch全文；View a pull request；Ask questions about the change；Share feedback and follow up；Review local changes；What changes it shows；Staging and reverting files；Git仓库、账户连接和权限等条件适用；自动发现不保证穷尽漏洞或替代人工决定；本研究未实测。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "CSUBAGENTS",
+    "publisher": "OpenAI / ChatGPT Learn",
+    "title": "Subagents",
+    "url": "https://learn.chatgpt.com/docs/agent-configuration/subagents",
+    "note": "动态文档；2026-10-31 search后fetch全文；Availability；Why subagent workflows help；Core terms；Approvals and sandbox controls；不能将并行宣传改写为必然更快、更便宜或没有冲突；具体触发依客户端和配置。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "CLAUNCH",
+    "publisher": "OpenAI",
+    "title": "Introducing the Codex app",
+    "url": "https://openai.com/index/introducing-the-codex-app/",
+    "note": "2026-02-02；页面另标2026-03-04 Windows更新；2026-10-31读取；页首This post introduced…及跳转当前产品；The Codex app: A command center for agents；只作历史表达对照，不作为当前功能、限额、价格或独立桌面架构依据。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "CBRAND",
+    "publisher": "OpenAI",
+    "title": "Design Guidelines",
+    "url": "https://openai.com/brand/",
+    "note": "未标发布日期；2026-10-31读取；Wordmark；Typography；How to use our Logos；Usage terms；这是OpenAI母品牌规范，未取得Codex完整VI手册；不能据此断言Codex专属字标的设计意图、字体或升级成效。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "CVHERO",
+    "publisher": "OpenAI 官方产品页媒体/CDN",
+    "title": "codex-hero.png",
+    "url": "https://images.ctfassets.net/kftzwdyauwt9/4QumXadILq80dZ6wg8Ty8C/6030766fdaf6ab00e0d9a3794bd7d480/figma-codexmini-desktop-dark.png",
+    "note": "发布日期未标；2026-10-31由当前官网DOM定位并下载、view_image审图；https://openai.com/zh-Hans-CN/codex/ 对应可见img及currentSrc；适合观察产品识别、层级与跨应用入口；没有据图臆测标志象征或真实使用效果。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "CVENGINEERING",
+    "publisher": "OpenAI 官方产品页媒体/CDN",
+    "title": "codex-engineering-review.png",
+    "url": "https://images.ctfassets.net/kftzwdyauwt9/3Oi7squKBZwF5QsKY8n8iJ/20344a07080e252f389f7806a32a5b41/figma-builtDesktop.png",
+    "note": "发布日期未标；2026-10-31由当前官网DOM定位并下载、view_image审图；https://openai.com/zh-Hans-CN/codex/ 对应可见img及currentSrc；适合观察任务—改动—解释的并置；这是官方展示素材，不是研究者执行的测试。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "CVPARALLEL",
+    "publisher": "OpenAI 官方产品页媒体/CDN",
+    "title": "codex-parallel-agents.png",
+    "url": "https://images.ctfassets.net/kftzwdyauwt9/4baKFoCwcNWcZG3AlIgUTv/c1734650b683d79a9333d448fcde684d/figma-designedDesktop.png",
+    "note": "发布日期未标；2026-10-31由当前官网DOM定位并下载、view_image审图；https://openai.com/zh-Hans-CN/codex/ 对应可见img及currentSrc；原图本身为局部构图，下部渐隐、右侧自然出画；适合图示工作组织，不能读成所有任务同时执行的性能证据。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "CVCLOUD",
+    "publisher": "OpenAI 官方产品页媒体/CDN",
+    "title": "codex-cloud-mobile.png",
+    "url": "https://images.ctfassets.net/kftzwdyauwt9/3OWWtq778t5UKuHHw7HcxQ/5c43ecac6f50aaa48c4ddc04d7390429/figma-cloudDesktop.png",
+    "note": "发布日期未标；2026-10-31由当前官网DOM定位并下载、view_image审图；https://openai.com/zh-Hans-CN/codex/ 对应可见img及currentSrc；适合观察跨设备与运行位置表达；图中状态不是本研究现场测量，也不证明离线本地任务可持续。",
+    "checked": "2026-10-31"
+  },
+  {
+    "id": "EIBSCALE",
+    "publisher": "European Investment Bank",
+    "title": "The scale-up gap 2024 公开研究摘要",
+    "url": "https://www.eib.org/en/publications/online/all/the-scale-up-gap",
+    "note": "原报告2024-07-24；本轮2026-11-01读机构摘要；跟踪2013年后欧盟VC支持且进入扩张期的企业，并与伦敦/旧金山对照；不是全体深科技公司横截面，非2026融资盘点",
+    "checked": "2026-11-01"
+  },
+  {
+    "id": "EICPARTNER",
+    "publisher": "European Innovation Council",
+    "title": "Unlocking Innovation through Corporate-Startup Collaboration 发布说明",
+    "url": "https://eic.ec.europa.eu/news/european-innovation-council-publishes-flagship-report-corporate-startup-collaboration-2025-07-10_en",
+    "note": "2025-07-10；公开项目汇总；结构化对接、试点及跟进；参与样本有选择，活动/交流/协议与收入或独立因果效果不同；本轮读发布说明，未读不可访问完整报告",
+    "checked": "2026-11-01"
+  },
+  {
+    "id": "EUDEPLOY",
+    "publisher": "European Commission DG CONNECT",
+    "title": "The EU’s Critical Digital Capacities Deployment Beyond 2027 公开摘要",
+    "url": "https://digital-strategy.ec.europa.eu/en/library/boosting-tech-deployment-beyond-2027-new-study-highlights-digital-opportunities-and-challenges-eu",
+    "note": "2026-06-23发布，07-14更新；公开研究摘要；采用受资金、技能、遗留系统及市场规则影响；仅支持欧盟环境机制，不当作中国企业访谈",
+    "checked": "2026-11-01"
+  },
+  {
+    "id": "IFR26",
+    "publisher": "International Federation of Robotics",
+    "title": "Five Million Robots now Operate in Factories Globally",
+    "url": "https://ifr.org/news/five-million-robots-now-operate-in-factories-globally/",
+    "note": "World Robotics 2026公开发布，2026-09-24；统计对象为2025工业机器人；全球新增60万余、中国35.4万/59%；安装流量、运行存量、生产量和人形部署分开；2026及2029为预测，不画为实际值",
+    "checked": "2026-11-01"
+  },
+  {
+    "id": "NSFICORPS",
+    "publisher": "U.S. National Science Foundation",
+    "title": "National I-Corps Teams applicants",
+    "url": "https://www.nsf.gov/funding/initiatives/i-corps/national-teams-applicants",
+    "note": "动态页面2026-11-01读取；七周项目、技术/创业/产业导师分工及100次客户访谈属于该项目要求；仅作客户发现机制参照，不成为击个掌每个项目样本门槛",
+    "checked": "2026-11-01"
+  },
+  {
+    "id": "LWSIMREADY",
+    "publisher": "Lightwheel",
+    "title": "SimReady The Physics Data Infrastructure for Physical AI",
+    "url": "https://lightwheel.ai/media/simready",
+    "note": "未标发布日期；2026-11-01读取；公司路线自述与官方图像，测量/求解/生成概念不能代替精度或产业收益验证",
+    "checked": "2026-11-01"
+  },
+  {
+    "id": "AGILITYPHOTO",
+    "publisher": "Agility Robotics",
+    "title": "Digit Deployed at GXO in Historic Humanoid RAAS Agreement",
+    "url": "https://www.agilityrobotics.com/content/digit-deployed-at-gxo-in-historic-humanoid-raas-agreement",
+    "note": "本轮页面未稳定显示文章日期；讨论2024-06-05部署；历史配图不作2026扩站现场，未采用首家等比较性宣传",
+    "checked": "2026-11-01"
+  },
+  {
+    "id": "IGXO",
+    "publisher": "GXO Logistics（客户运营方）",
+    "title": "GXO and Agility Robotics Expand Partnership to Accelerate Deployment of Humanoids in U.S. Operations",
+    "url": "https://investors.gxo.com/news-releases/news-release-details/gxo-and-agility-robotics-expand-partnership-accelerate",
+    "note": "2026-10-26；首段、From Industry-First to Multi-Site Expansion、Building the Infrastructure for Commercial Scale；10万箱为该场所累计任务，非日产/设备数；2027站点尚未验收；65000小时是全部客户/商业项目合计，不能放到GXO单点；RaaS价款/利润/人工接管率未披露。",
+    "checked": "2026-11-01"
+  },
+  {
+    "id": "ICAAC",
+    "publisher": "中国民用航空局",
+    "title": "2025年民航行业发展统计公报",
+    "url": "https://www.caac.gov.cn/XXGK/XXGK/TJSJ/202604/P020260417665629030648.pdf",
+    "note": "2026-04-17；PDF印刷12页（二/五民用无人驾驶航空情况）；对照民航局同日发布说明；注册不等于当年销量/活跃/消费用途；个人可从事商业任务，法人登记也不代表终端用户；小时不等于收费订单、利润或低空GDP。",
+    "checked": "2026-11-01"
+  },
+  {
+    "id": "IMEITUAN",
+    "publisher": "美团",
+    "title": "我们的科技",
+    "url": "https://www.meituan.com/technology",
+    "note": "动态页未标发布时间；数据截至2026-07；无人机、无人车、小黄蜂板块；本轮11-01读取；厂商统计未独立审计，完成订单不是独立用户、利润或无人干预证明；65条城市航线不同于其他年报“全部航线”口径，不作同比；全国可飞能力不等于所有地方可用。",
+    "checked": "2026-11-01"
+  },
+  {
+    "id": "IWALMART",
+    "publisher": "Walmart（零售运营方）",
+    "title": "Walmart Celebrates 1 Million Drone Deliveries, Marking a Major Milestone in Customer Convenience",
+    "url": "https://corporate.walmart.com/news/2026/05/29/walmart-celebrates-1-million-drone-deliveries-marking-a-major-milestone-in-customer-convenience",
+    "note": "2026-05-29；正文累计、66stores、FY27Q1、providers段；不是Wing单家百万单；不等于用户支付配送溢价、单航线盈利、普遍适航许可。未公开净贡献、失败和补贴口径；2027扩张计划不计既成。",
+    "checked": "2026-11-01"
+  },
+  {
+    "id": "KLWHOME",
+    "publisher": "光轮智能",
+    "title": "Lightwheel: Data and Simulation Infrastructure to Accelerate Your Robotics Deployment",
+    "url": "https://www.lightwheel.ai/",
+    "note": "动态页面，无明确整页发布日期；首页品牌定义；World/Behavior/Evaluation；产品与Book a Demo；只证明当页产品组织与自我定位，不证明所有产品成熟度、收费用户规模、融资或品牌效果。",
+    "checked": "2026-11-01"
+  },
+  {
+    "id": "KLWROBOFINALS",
+    "publisher": "光轮智能",
+    "title": "Lightwheel Launches RoboFinals: Full-Stack Robot Evaluation Benchmark Built on Newton",
+    "url": "https://lightwheel.ai/media/lightwheel-launches-robofinals-full-stack-robot-evaluation-benchmark-newton",
+    "note": "页面未明确日级发布日期；2026-11-01读取；22项初始任务；资产、数据、评估栈；关于sim-to-real边界的说明；真实世界相关性拟后续发布，不把仿真结果当实物泛化或商业ROI证据；不采用唯一/首个等未独立核验比较说法。",
+    "checked": "2026-11-01"
+  },
+  {
+    "id": "KLWNVIDIA",
+    "publisher": "NVIDIA Developer",
+    "title": "Simplify Generalist Robot Policy Evaluation in Simulation with NVIDIA Isaac Lab-Arena",
+    "url": "https://developer.nvidia.com/blog/simplify-generalist-robot-policy-evaluation-in-simulation-with-nvidia-isaac-lab-arena",
+    "note": "2026-01-05；正文开头、pre-alpha说明、环境与评估工作流；不使用页面AI摘要作为证据；合作方技术说明不等于独立性能审计；NVIDIA是共同开发伙伴，不能据此写成付费客户。省略有严格硬件/任务前提的性能倍数。",
+    "checked": "2026-11-01"
+  },
+  {
+    "id": "KABBPORTFOLIO",
+    "publisher": "ABB",
+    "title": "Robotics",
+    "url": "https://www.abb.com/global/en/areas/robotics",
+    "note": "动态官网，无明确整页发布日期；产品、应用、行业、服务入口；未据此证明市场份额、领先效果或完整视觉识别治理；不把集团所有业务等同机器人业务。",
+    "checked": "2026-11-01"
+  },
+  {
+    "id": "KABBROBOTSTUDIO",
+    "publisher": "ABB",
+    "title": "RobotStudio Suite",
+    "url": "https://www.abb.com/global/en/areas/robotics/products/software/robotstudio-suite?PF=5785",
+    "note": "动态官网，无明确整页发布日期；offline programming/simulation、Virtual Controller、AR Viewer、协作及许可入口；不将最高90%/50%等宣传提升值推广为普遍结果；产品内AI助手不等于ABB内部采用AI原生品牌工作流。",
+    "checked": "2026-11-01"
+  },
+  {
+    "id": "KABBPOSTI",
+    "publisher": "ABB",
+    "title": "RobotStudio slashes installation schedule by several months for new parcel sorting solution",
+    "url": "https://new.abb.com/news/detail/123569/cstmr-robotstudio-slashes-installation-schedule-by-several-months-for-new-parcel-sorting-solution",
+    "note": "2025-02-19；Posti/Roboco/ABB/AMD Silo AI分工与数字环境先行的项目叙述；是供应商案例；节约月份及对齐率等为案例参与方自报，未做独立基线复现。合同采购/付款链、费用与软件许可结构未披露。",
+    "checked": "2026-11-01"
+  },
+  {
+    "id": "KABBUX",
+    "publisher": "ABB",
+    "title": "Putting users first: how ABB’s RobotStudio UX team builds customer-driven robotics software",
+    "url": "https://new.abb.com/news/detail/133674/wbstr-putting-users-first-how-abb-s-robotstudio-ux-team-builds-customer-driven-robotics-software",
+    "note": "2026-02-24；过去两年35余次用户会话、客户走访、用户组、反馈入口；厂商自述的流程证据，不是独立因果研究；用户研究不能被内容包装替代，也不证明品牌升级效果。",
+    "checked": "2026-11-01"
+  },
+  {
+    "id": "KABBINDIA",
+    "publisher": "ABB India Limited",
+    "title": "Postal Ballot Notice / Proposed Transfer of Robotics Business",
+    "url": "https://new.abb.com/docs/librariesprovider19/default-document-library/postal-ballot-noticea33298f5c1f463c09537ff0000433538.pdf",
+    "note": "2026-01-28；正式交易所函件；Details and Rationale相关页（PDF第9–10页/文件印刷约第8–9页），Robotics业务技术及全球网络依赖段；是特定业务转让提案的披露，不作为当前全球交易完成或未完成的证据；不能外推所有机器人公司或把地方业务占比当全球份额。",
+    "checked": "2026-11-01"
+  },
+  {
+    "id": "KABBRESULTS",
+    "publisher": "ABB",
+    "title": "ABB Q4 and Full-Year 2025 Results",
+    "url": "https://new.abb.com/docs/librariesprovider51/aktieinfo/abb-q4-2025-press-release-english.pdf?sfvrsn=5bdfb0d_1",
+    "note": "2026-01-29；Significant events（印刷第10页）；Robotics discontinued operations及guidance相关说明；本文仅引用当时披露及会计口径，不判断2026-11-01全球交易完成状态。不将ABB集团持续经营总收入当机器人收入。",
+    "checked": "2026-11-01"
+  },
+  {
+    "id": "KJOBYQ",
+    "publisher": "Joby Aviation / SEC 8-K Exhibit",
+    "title": "Second Quarter 2026 Shareholder Letter",
+    "url": "https://ir.jobyaviation.com/sec-filings/all-sec-filings/content/0001819848-26-000432/joby-8kx20260805xexx99_2.htm",
+    "note": "2026-08-05；制造与飞行进度；Blade商业表现；财务报表；12架在产不是12架已交付；总收入主要含Blade既有业务，不能写成新电动空中的士规模收费；金额为USD，不与EHang人民币直接作规模优劣判断。",
+    "checked": "2026-11-01"
+  },
+  {
+    "id": "KJOBYSEC",
+    "publisher": "Joby Aviation / SEC",
+    "title": "Form 10-Q for the quarter ended June 30, 2026",
+    "url": "https://ir.jobyaviation.com/sec-filings/all-sec-filings/content/0001819848-26-000435/joby-20260630.htm",
+    "note": "2026年二季度10-Q（截至2026-06-30）；Government Certification；Competition及政府合同段（约印刷第30–31页）；特定时期正式披露的风险，不断言全部风险都已发生；不将监管方、出资方、采购方和乘客混为一个政府/客户角色。",
+    "checked": "2026-11-01"
+  },
+  {
+    "id": "KJOBYFLORIDA",
+    "publisher": "Joby Aviation",
+    "title": "Joby Brings Its Vertical Takeoff and Landing Air Taxi to Florida…",
+    "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/195/joby-brings-its-vertical-takeoff-and-landing-air-taxi-to",
+    "note": "2026-10-30；Florida eIPP有人驾驶飞行、FDOT合作及认证进度；是公司最新公告及试飞信息，不是付费载客已经规模推出的证据；完整商业状态仍需相应运营和认证资料。",
+    "checked": "2026-11-01"
+  },
+  {
+    "id": "BCLWLAB",
+    "publisher": "NVIDIA Isaac Lab-Arena联合开发说明",
+    "title": "NVIDIA Isaac Lab-Arena联合开发说明",
+    "url": "https://developer.nvidia.com/blog/simplify-generalist-robot-policy-evaluation-in-simulation-with-nvidia-isaac-lab-arena/",
+    "note": "2026年1月5日NVIDIA技术原文；联合开发、当时pre-alpha、光轮开放250余项任务；不写成客户数或完整商业成熟度；外部公开材料，仅支持对应观察；本轮未重新实测产品、真实读者或AI自然检索。",
+    "checked": "2026-11-01；11月5日复核本地案例稿"
+  },
+  {
+    "id": "BCLWOPEN",
+    "publisher": "EgoSuite-Open100K公开发布说明",
+    "title": "EgoSuite-Open100K公开发布说明",
+    "url": "https://huggingface.co/blog/LightwheelAI/egosuite-open100k",
+    "note": "2026年8月26日LightwheelAI署名Community Article；发布时首批1万小时、计划总量10万小时并分批开放，不作为当前完整可下载量；外部公开材料，仅支持对应观察；本轮未重新实测产品、真实读者或AI自然检索。",
+    "checked": "2026-11-01；11月5日复核本地案例稿"
+  },
+  {
+    "id": "BCLWDOC",
+    "publisher": "Hugging Face LeIsaac与LeRobot文档",
+    "title": "Hugging Face LeIsaac与LeRobot文档",
+    "url": "https://huggingface.co/docs/lerobot/en/envhub_leisaac",
+    "note": "平台正式文档；展示任务、遥操作、数据转换、训练和使用入口，不等同商业产品整体认证；外部公开材料，仅支持对应观察；本轮未重新实测产品、真实读者或AI自然检索。",
+    "checked": "2026-11-01；11月5日复核本地案例稿"
+  },
+  {
+    "id": "BCVWRC",
+    "publisher": "Vbot官方社区 WRC 2025回顾",
+    "title": "Vbot官方社区 WRC 2025回顾",
+    "url": "https://forum.vbot.cn/t/vbot-wrc-2025/14",
+    "note": "2026年7月7日发布，回顾2025年8月8日事件；设计与交互理念为公司自述；外部公开材料，仅支持对应观察；本轮未重新实测产品、真实读者或AI自然检索。",
+    "checked": "2026-11-01；11月5日复核本地案例稿"
+  },
+  {
+    "id": "BCVCITY",
+    "publisher": "北京市科委 维他动力完成近5亿元融资",
+    "title": "北京市科委 维他动力完成近5亿元融资",
+    "url": "https://kw.beijing.gov.cn/xwdt/kcyx/xwdtyqqy/202605/t20260515_4651931.html",
+    "note": "2026年5月15日报道，确认5月8日启动交付、首批500台下线和已开业体验店；外部公开材料，仅支持对应观察；本轮未重新实测产品、真实读者或AI自然检索。",
+    "checked": "2026-11-01；11月5日复核本地案例稿"
+  },
+  {
+    "id": "BCVCOMM",
+    "publisher": "Vbot超能社区",
+    "title": "Vbot超能社区",
+    "url": "https://forum.vbot.cn/",
+    "note": "2026年11月1日可见的玩法、开发与支持栏目；不据此估计生态规模；外部公开材料，仅支持对应观察；本轮未重新实测产品、真实读者或AI自然检索。",
+    "checked": "2026-11-01；11月5日复核本地案例稿"
+  },
+  {
+    "id": "BCVINTERVIEW",
+    "publisher": "凤凰网科技 余轶南与赵哲伦联合采访",
+    "title": "凤凰网科技 余轶南与赵哲伦联合采访",
+    "url": "https://tech.ifeng.com/c/8t2GXFIlttG",
+    "note": "2026年5月11日；生活空间方向、用户反馈、交互定义及完整链路为创始团队自述；外部公开材料，仅支持对应观察；本轮未重新实测产品、真实读者或AI自然检索。",
+    "checked": "2026-11-01；11月5日复核本地案例稿"
+  },
+  {
+    "id": "BCDJIABOUT",
+    "publisher": "DJI",
+    "title": "DJI｜关于大疆与文化理念",
+    "url": "https://careers.dji.com/zh-CN/about",
+    "note": "当前中文招聘官网；公司身份、公开使命、长期方向、六项价值观与发展轴。文化理念中的长期方向未另标为独立愿景。2026-11-01核对。；外部公开材料，仅支持对应观察；本轮未重新实测产品、真实读者或AI自然检索。",
+    "checked": "2026-11-01；11月5日复核本地案例稿"
+  },
+  {
+    "id": "BCDJIPOCKET",
+    "publisher": "DJI",
+    "title": "DJI｜Osmo Pocket 3产品页",
+    "url": "https://www.dji.com/osmo-pocket-3",
+    "note": "2023代表性产品的官方页面及公开资源；产品定义、传播语、传感器、稳定、屏幕与样片；不称最新型号。；外部公开材料，仅支持对应观察；本轮未重新实测产品、真实读者或AI自然检索。",
+    "checked": "2026-11-01；11月5日复核本地案例稿"
+  },
+  {
+    "id": "BCDJISTORE",
+    "publisher": "DJI Store",
+    "title": "DJI Store｜Mini 5 Pro中国商城页",
+    "url": "https://store.dji.com/cn/product/dji-mini-5-pro?set_region=CN",
+    "note": "2026-11-01观察；产品选择、功能价值、对比、FAQ及脚注。本文不保留价格和促销；图传与续航需区分标准、配置与实验条件。；外部公开材料，仅支持对应观察；本轮未重新实测产品、真实读者或AI自然检索。",
+    "checked": "2026-11-01；11月5日复核本地案例稿"
+  },
+  {
+    "id": "BCDJISPACE",
+    "publisher": "Various Associates万社设计",
+    "title": "Various Associates万社设计｜DJI Flagship",
+    "url": "https://www.various-associates.com/dji",
+    "note": "深圳欢乐海岸旗舰店改造设计方原始项目介绍；近4000平方米、四层、销售/体验/售后/培训及DJI Oasis设计；不作为经营效果证据。；外部公开材料，仅支持对应观察；本轮未重新实测产品、真实读者或AI自然检索。",
+    "checked": "2026-11-01；11月5日复核本地案例稿"
+  },
+  {
+    "id": "BCDJISKY",
+    "publisher": "DJI与SkyPixel",
+    "title": "DJI与SkyPixel｜第11届赛事征集",
+    "url": "https://www.dji.com/media-center/announcements/dji-release-skypixei",
+    "note": "2025-11-27启动、2026-03-10截止；分类、每周奖励、评审、创作者合约及官网与社交渠道双通道投稿。活动已结束，本文不作当前报名入口。；外部公开材料，仅支持对应观察；本轮未重新实测产品、真实读者或AI自然检索。",
+    "checked": "2026-11-01；11月5日复核本地案例稿"
+  },
+  {
+    "id": "BCDJISUPPORT",
+    "publisher": "DJI",
+    "title": "DJI｜产品与维修支持",
+    "url": "https://www.dji.com/support",
+    "note": "2026-11-01观察；按产品组织教学、指南、下载、维修申请和服务进度入口。用于分析购买后的采用支持，不推定满意度。；外部公开材料，仅支持对应观察；本轮未重新实测产品、真实读者或AI自然检索。",
+    "checked": "2026-11-01；11月5日复核本地案例稿"
+  },
+  {
+    "id": "GHUPLOAD",
+    "publisher": "GitHub Docs",
+    "title": "Adding a file to a repository",
+    "url": "https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository",
+    "note": "网页Add file→Upload files→填写提交说明→提交变更；网页单文件25 MiB、命令行普通Git单文件100 MiB。 这是仓库文件上传限制，不是Release附件限制；上传不等于开启Pages或获得搜索索引。",
+    "checked": "2026-11-05"
+  },
+  {
+    "id": "GHCITATION",
+    "publisher": "GitHub Docs",
+    "title": "About CITATION files",
+    "url": "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files",
+    "note": "默认分支根目录CITATION.cff可显示引用入口；preferred-citation支持report，生成技术报告引用。 默认软件引用不能代替机构研究报告；字段只填实际作者、版本、URL和已经生效的DOI。",
+    "checked": "2026-11-05"
+  },
+  {
+    "id": "ZENDOI",
+    "publisher": "Zenodo Help",
+    "title": "Digital Object Identifier (DOI)",
+    "url": "https://help.zenodo.org/docs/deposit/describe-records/reserve-doi/",
+    "note": "DOI是持久标识；可在草稿预留，发布记录时注册；同一对象已有DOI须填既有标识。 预留不等于已公开可用；DOI不代表同行评审、结论认证或AI推荐。",
+    "checked": "2026-11-05"
+  },
+  {
+    "id": "OPENAIBOTS",
+    "publisher": "OpenAI Docs",
+    "title": "Overview of OpenAI Crawlers",
+    "url": "https://developers.openai.com/api/docs/bots",
+    "note": "搜索、训练与用户触发读取是不同用途；搜索意图应核OAI-SearchBot及官方IP访问。 开放不保证引用；GPTBot训练许可独立；ChatGPT-User并非自动搜索爬虫。",
+    "checked": "2026-11-05"
+  },
+  {
+    "id": "INDEXNOW",
+    "publisher": "IndexNow.org",
+    "title": "Documentation；FAQ",
+    "url": "https://www.indexnow.org/documentation",
+    "note": "站点部署密钥验证后通知新增/更新/删除URL；HTTP200仅表示收到通知，参与引擎共享提交。 不保证抓取时点或索引；不能替不控制的知乎/微信域名验证所有权；不是向所有AI统一提交。",
+    "checked": "2026-11-05"
+  },
+  {
+    "id": "V23DEXS1",
+    "publisher": "原力灵机官网",
+    "title": "原力灵机官网",
+    "url": "https://www.dexmal.com/",
+    "note": "2026年11月1日核对官网公开导航、页面资源与业务入口；不据此估计访问或转化效果",
+    "checked": "2026-11-01 case核读，2026-11-05本地复核"
+  },
+  {
+    "id": "V23DEXS10",
+    "publisher": "新华网 WAIC拼装长城模型演示",
+    "title": "新华网 WAIC拼装长城模型演示",
+    "url": "https://www.xinhuanet.com/20260720/b4a37b350365492697705718eec524f0/c.html",
+    "note": "2026年7月20日记者报道；拼长城为展会演示，照片标企业供图，不作仓库产能证明",
+    "checked": "2026-11-01 case核读，2026-11-05本地复核"
+  },
+  {
+    "id": "V23DEXS11",
+    "publisher": "2026世界机器人大会 原力灵机展商页",
+    "title": "2026世界机器人大会 原力灵机展商页",
+    "url": "https://www.worldrobotconference.com/expo/company/628.html",
+    "note": "主办方展商材料：成立于2025年3月、使命、A302展位及Apex/DM0.5展品；能力描述属展商自述",
+    "checked": "2026-11-01 case核读，2026-11-05本地复核"
+  },
+  {
+    "id": "V23DEXS12",
+    "publisher": "2026世界机器人大会 拼长城活动",
+    "title": "2026世界机器人大会 拼长城活动",
+    "url": "https://www.worldrobotconference.com/expo/event/244.html",
+    "note": "主办方公布8月19日09:00—17:00展位活动；不采用全球首次等排他性宣传为独立结论",
+    "checked": "2026-11-01 case核读，2026-11-05本地复核"
+  },
+  {
+    "id": "V23DEXS13",
+    "publisher": "原力灵机ATOMIX 公司介绍",
+    "title": "原力灵机ATOMIX 公司介绍",
+    "url": "https://www.atomixrobot.com/about/",
+    "note": "当前仓储业务页面，含自身使命愿景价值观和历史项目口径；不当作集团统一MVV或DM0.5新交付成果",
+    "checked": "2026-11-01 case核读，2026-11-05本地复核"
+  },
+  {
+    "id": "V23DEXS2",
+    "publisher": "原力灵机 品牌资源与规范",
+    "title": "原力灵机 品牌资源与规范",
+    "url": "https://www.dexmal.com/about/brand",
+    "note": "官方Logo、墨稿反白、安全空间、伙伴组合及原文件；通过页面资源和原图核对",
+    "checked": "2026-11-01 case核读，2026-11-05本地复核"
+  },
+  {
+    "id": "V23DEXS3",
+    "publisher": "原力灵机 Apex官方产品页",
+    "title": "原力灵机 Apex官方产品页",
+    "url": "https://www.dexmal.com/robots/apex",
+    "note": "官方产品定义与形象图；图片不标作工业现场",
+    "checked": "2026-11-01 case核读，2026-11-05本地复核"
+  },
+  {
+    "id": "V23DEXS4",
+    "publisher": "联想创投 原力灵机A与A+轮融资",
+    "title": "联想创投 原力灵机A与A+轮融资",
+    "url": "https://capital.lenovo.com/news/detail/id/1156/s/1.html",
+    "note": "2025年11月14日投资方原文；A和A+两轮合计近10亿元，非单轮或当前累计总额",
+    "checked": "2026-11-01 case核读，2026-11-05本地复核"
+  },
+  {
+    "id": "V23DEXS7",
+    "publisher": "DexDev官方介绍",
+    "title": "DexDev官方介绍",
+    "url": "https://dev.dexmal.com/about",
+    "note": "公司与平台自述：面向研究者、工程师的开发基础设施、开放协作、发展节点；不直接采用无条件排名",
+    "checked": "2026-11-01 case核读，2026-11-05本地复核"
+  },
+  {
+    "id": "V23DEXS8",
+    "publisher": "Dexmal官方GitHub",
+    "title": "Dexmal官方GitHub",
+    "url": "https://github.com/dexmal",
+    "note": "2026年11月1日核对公开代码仓库、组织使命和技术触点；不把Star或仓库数等同客户与收入",
+    "checked": "2026-11-01 case核读，2026-11-05本地复核"
+  },
+  {
+    "id": "V23DEXS9",
+    "publisher": "新华网 ACTION 2026产品与平台发布",
+    "title": "新华网 ACTION 2026产品与平台发布",
+    "url": "https://www.xinhuanet.com/tech/20260710/01f997d814a6480290cf828a36d565e5/c.html",
+    "note": "2026年7月10日报道7月9日开发者大会；发布内容与照片；场景测试不等于规模交付",
+    "checked": "2026-11-01 case核读，2026-11-05本地复核"
+  },
+  {
+    "id": "V23DJIS10",
+    "publisher": "DJI",
+    "title": "DJI｜Mavic 4 Pro产品页",
+    "url": "https://www.dji.com/au/mavic-4-pro",
+    "note": "2025代表性产品的官方页面与公开页面资源；英文产品定义、传播语、场景与技术渲染。按2026-11-01观察，不称最新型号。",
+    "checked": "2026-11-01 case核读，2026-11-05本地复核"
+  },
+  {
+    "id": "V23DJIS13",
+    "publisher": "DJI Enterprise",
+    "title": "DJI Enterprise｜行业应用与生态入口",
+    "url": "https://enterprise.dji.com/",
+    "note": "2026-11-01观察；硬件、负载、软件、开发工具、案例、培训、数据安全与维护等公开入口。导航存在不等于全部方案已被特定客户采用。",
+    "checked": "2026-11-01 case核读，2026-11-05本地复核"
+  },
+  {
+    "id": "V23DJIS14",
+    "publisher": "DJI Enterprise",
+    "title": "DJI Enterprise｜地理空间行业方案",
+    "url": "https://enterprise.dji.com/geospatial",
+    "note": "2026-11-01观察；按测绘、建筑等任务与成果组织方案。效率等属于厂商方案主张，不据此估客户ROI。该站GEO培训指地理空间，和生成式引擎优化不同。",
+    "checked": "2026-11-01 case核读，2026-11-05本地复核"
+  },
+  {
+    "id": "V23DJIS16",
+    "publisher": "ArchDaily",
+    "title": "ArchDaily｜DJI旗舰店 / 万社设计",
+    "url": "https://www.archdaily.com/1023088/dji-flagship-store-various-associates",
+    "note": "2024-11-06刊载，设计团队供稿与SFAP项目摄影；辅助核对改造年份、地点及照片身份。",
+    "checked": "2026-11-01 case核读，2026-11-05本地复核"
+  },
+  {
+    "id": "V23DJIS3",
+    "publisher": "DJI",
+    "title": "DJI｜第11届SkyPixel大赛结果",
+    "url": "https://www.dji.com/media-center/announcements/dji-11-annual-skypixel-photo-and-video-ontest",
+    "note": "2026-04-27；近9.5万份投稿、96个国家与地区为公司披露的该届比赛结果，非独立作者数、客户数或销量。",
+    "checked": "2026-11-01 case核读，2026-11-05本地复核"
+  },
+  {
+    "id": "V23HUMS1",
+    "publisher": "北京人形",
+    "title": "北京人形｜官网与产品导航",
+    "url": "https://www.x-humanoid.com/",
+    "note": "2026-11-01当前页面观察；具身天工、具身智能、具身数据与中试服务、应用实践和合作入口。页面能力描述为企业主张。",
+    "checked": "2026-11-01 case核读，2026-11-05本地复核"
+  },
+  {
+    "id": "V23HUMS11",
+    "publisher": "北京人形",
+    "title": "北京人形｜官网开源项目目录",
+    "url": "https://www.x-humanoid.com/opensource.html",
+    "note": "列Lite/Pro本体URDF、STEP、手册、SDK、ROS及RoboMIND入口。不同机型与阶段分别核对，不泛称最新本体全部完整开源。",
+    "checked": "2026-11-01 case核读，2026-11-05本地复核"
+  },
+  {
+    "id": "V23HUMS12",
+    "publisher": "Open-X-Humanoid",
+    "title": "Open-X-Humanoid｜训练工具链README",
+    "url": "https://github.com/Open-X-Humanoid/x-humanoid-training-toolchain",
+    "note": "原始项目；HDF5转LeRobotDataset、训练、数据可视化等步骤。本文查阅文档，未实机运行或复验性能；不是第三方框架全面认证。",
+    "checked": "2026-11-01 case核读，2026-11-05本地复核"
+  },
+  {
+    "id": "V23HUMS13",
+    "publisher": "X-Humanoid",
+    "title": "X-Humanoid｜ArtVIP数据卡与版本记录",
+    "url": "https://huggingface.co/datasets/X-Humanoid/ArtVIP",
+    "note": "2026-11-01数据卡；v1.0与v1.3对象规模分版本，附许可、环境要求和使用示例。本文关注资料组织，不复验物理准确度。",
+    "checked": "2026-11-01 case核读，2026-11-05本地复核"
+  },
+  {
+    "id": "V23HUMS14",
+    "publisher": "北京人形",
+    "title": "北京人形｜2026世界机器人大会展会回顾",
+    "url": "https://www.x-humanoid.com/news-view-292.html",
+    "note": "当前页刊2026-08-20，回顾8月19日起的展示；Omni动作/任务、天工3.0导览、工业与居家场景。企业自述与展演，不推定常态可靠运行和未来门店部署已完成。",
+    "checked": "2026-11-01 case核读，2026-11-05本地复核"
+  },
+  {
+    "id": "V23HUMS17",
+    "publisher": "北京人形",
+    "title": "北京人形｜中试验证平台介绍",
+    "url": "https://www.x-humanoid.com/news-view-248.html",
+    "note": "页头2026-02-06，事件日期1月29日；提供试制、验证、优化、装调与测试服务。区分平台服务产出和单一机型付费交付。",
+    "checked": "2026-11-01 case核读，2026-11-05本地复核"
+  },
+  {
+    "id": "V23HUMS18",
+    "publisher": "北京人形",
+    "title": "北京人形｜2026半马实训营与合作交付",
+    "url": "https://www.x-humanoid.com/news-view-256.html",
+    "note": "2026-03-19；公司披露向高校及二次开发伙伴交付15台本体并提供慧思开物支持，未据此推定付费销量、训练或商业转化效果；配图为开营发言。",
+    "checked": "2026-11-01 case核读，2026-11-05本地复核"
+  },
+  {
+    "id": "V23HUMS19",
+    "publisher": "北京人形",
+    "title": "北京人形｜2025天工Ultra半马官方记录与图片",
+    "url": "https://www.x-humanoid.com/news-view-164.html",
+    "note": "2025-04-19赛事与冲线原图；与地区现场报道交叉核对机型、时间和导航条件。赛事照片不等于工业常态工作验证。",
+    "checked": "2026-11-01 case核读，2026-11-05本地复核"
+  },
+  {
+    "id": "V23HUMS2",
+    "publisher": "北京人形",
+    "title": "北京人形｜公司介绍与文化",
+    "url": "https://www.x-humanoid.com/about.html",
+    "note": "公司身份、成立及挂牌月份、使命&愿景合并栏目、价值观。自我定位与击个掌判断分开，不将国家平台身份写成政府部门。",
+    "checked": "2026-11-01 case核读，2026-11-05本地复核"
+  },
+  {
+    "id": "V23HUMS8",
+    "publisher": "北京人形",
+    "title": "北京人形｜具身天工3.0发布",
+    "url": "https://www.x-humanoid.com/news-view-251.html",
+    "note": "2026-02-12刊载，事件为2月10日；开放接口、协议、开发工具与产品使用方向为公司介绍，非独立效果测评。",
+    "checked": "2026-11-01 case核读，2026-11-05本地复核"
+  },
+  {
+    "id": "V23HUMS9",
+    "publisher": "北京人形",
+    "title": "北京人形｜慧思开物产品页",
+    "url": "https://www.x-humanoid.com/detail/hskw.html",
+    "note": "2026-11-01正文、HTML标题与公开图片观察；平台定义、大脑/小脑角色、申请与登录入口。页面无完整测量条件的降本等数字不纳入本文效果结论。",
+    "checked": "2026-11-01 case核读，2026-11-05本地复核"
+  },
+  {
+    "id": "V23LWS11",
+    "publisher": "中关村科学城 光轮融资与产品体系",
+    "title": "中关村科学城 光轮融资与产品体系",
+    "url": "https://www.ncsti.gov.cn/kjdt/scyq/zgckxc/zgcdt/202607/t20260701_250581.html",
+    "note": "2026年7月1日官方机构转载中关村科学城稿；中文SimFoundry/EgoSuite/RoboFinals/RoboStack角色，按该材料时期呈现",
+    "checked": "2026-11-01 case核读，2026-11-05本地复核"
+  },
+  {
+    "id": "V23LWS12",
+    "publisher": "Lightwheel与MANUS合作公告",
+    "title": "Lightwheel与MANUS合作公告",
+    "url": "https://lightwheel.ai/media/lightwheel-manus-partnership",
+    "note": "2026年7月公司公告；CEO使命直接表述、成立于2023年及合作框架；未来研发和合作不改写为已交付成果",
+    "checked": "2026-11-01 case核读，2026-11-05本地复核"
+  },
+  {
+    "id": "V23LWS15",
+    "publisher": "量子位 GTC现场报道",
+    "title": "量子位 GTC现场报道",
+    "url": "https://www.qbitai.com/2026/03/390924.html",
+    "note": "2026年3月21日原始活动报道及展台照片；只使用现场展示组织与图片，不采用其全球份额、排他地位或人数推定转化",
+    "checked": "2026-11-01 case核读，2026-11-05本地复核"
+  },
+  {
+    "id": "V23LWS3",
+    "publisher": "Lightwheel EgoSuite发布说明",
+    "title": "Lightwheel EgoSuite发布说明",
+    "url": "https://www.lightwheel.ai/egosuite",
+    "note": "2025年12月4日公司产品说明；第一视角采集与标注表达，不使用其累计交付自述作审计数字",
+    "checked": "2026-11-01 case核读，2026-11-05本地复核"
+  },
+  {
+    "id": "V23LWS4",
+    "publisher": "Lightwheel RoboFinals发布说明",
+    "title": "Lightwheel RoboFinals发布说明",
+    "url": "https://www.lightwheel.ai/robofinals",
+    "note": "2025年12月4日公司产品说明；评测任务、适用者与咨询入口，区分发布阶段和已完成商用",
+    "checked": "2026-11-01 case核读，2026-11-05本地复核"
+  },
+  {
+    "id": "V23LWS6",
+    "publisher": "NVIDIA Newton技术与工业任务说明",
+    "title": "NVIDIA Newton技术与工业任务说明",
+    "url": "https://developer.nvidia.com/blog/newton-adds-contact-rich-manipulation-and-locomotion-capabilities-for-industrial-robotics/",
+    "note": "2026年3月16日合作方技术原文；光轮的求解器校准、实测物理资产及线缆装配仿真；不将Newton整体性能归给光轮",
+    "checked": "2026-11-01 case核读，2026-11-05本地复核"
+  },
+  {
+    "id": "V23LWS7",
+    "publisher": "NVIDIA 从仿真到生产的机器人工作流",
+    "title": "NVIDIA 从仿真到生产的机器人工作流",
+    "url": "https://blogs.nvidia.com/blog/build-robots-with-ai/",
+    "note": "2026年3月18日NVIDIA原文；明确折衣演示在Isaac Sim中使用Lightwheel仿真数据，图像是仿真视频截帧",
+    "checked": "2026-11-01 case核读，2026-11-05本地复核"
+  },
+  {
+    "id": "V23VBS5",
+    "publisher": "2026世界机器人大会 展商介绍",
+    "title": "2026世界机器人大会 展商介绍",
+    "url": "https://wrc.cie.org.cn/expo/company/444.html",
+    "note": "C108展位与展品清单；功能描述为展商介绍",
+    "checked": "2026-11-01 case核读，2026-11-05本地复核"
+  },
+  {
+    "id": "V23VBS6",
+    "publisher": "2026世界机器人大会 Vbot全家族产品发布活动",
+    "title": "2026世界机器人大会 Vbot全家族产品发布活动",
+    "url": "https://www.worldrobotconference.com/expo/event/162.html",
+    "note": "2026年8月19日13时至15时发布活动及活动目的",
+    "checked": "2026-11-01 case核读，2026-11-05本地复核"
+  },
+  {
+    "id": "V23VBS7",
+    "publisher": "新华网客户端 Vbot ATOM发布",
+    "title": "新华网客户端 Vbot ATOM发布",
+    "url": "https://app.xinhuanet.com/news/article.html?articleId=20260822552eab20bbfb45aab48880b1878f7938",
+    "note": "2026年8月22日报道8月19日发布；新品阶段、家族KV和现场照片",
+    "checked": "2026-11-01 case核读，2026-11-05本地复核"
+  }
+]

@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "请引用本机构研究报告；在线地址与DOI在实际发布后填写。"
+title: "前沿科技企业品牌建设白皮书：中国与全球产业观察、融资后与上市前的品牌方法及AI原生双界面系统"
+authors:
+  - name: "击个掌研究团队 Jigezhang"
+version: "1.1"
+keywords:
+  - 前沿科技品牌
+  - 融资后品牌建设
+  - 上市前品牌准备
+  - AI原生品牌双界面系统
+  - GEO官网
+preferred-citation:
+  type: report
+  title: "前沿科技企业品牌建设白皮书：中国与全球产业观察、融资后与上市前的品牌方法及AI原生双界面系统"
+  authors:
+    - name: "击个掌研究团队 Jigezhang"
+  year: 2026
+  version: "1.1"
+  publisher:
+    name: "击个掌 Jigezhang"
