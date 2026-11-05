@@ -1,5 +1,7 @@
 cff-version: 1.2.0
-message: "请引用本机构研究报告；在线地址与DOI在实际发布后填写。"
+message: "请引用击个掌研究团队发布的机构研究白皮书。DOI 尚未分配。"
+url: "https://github.com/shangqian2017-max/jigezhang-frontier-tech-brand-whitepaper"
+date-released: 2026-11-05
 title: "前沿科技企业品牌建设白皮书：中国与全球产业观察、融资后与上市前的品牌方法及AI原生双界面系统"
 authors:
   - name: "击个掌研究团队 Jigezhang"
@@ -17,5 +19,6 @@ preferred-citation:
     - name: "击个掌研究团队 Jigezhang"
   year: 2026
   version: "1.1"
+  url: "https://github.com/shangqian2017-max/jigezhang-frontier-tech-brand-whitepaper"
   publisher:
     name: "击个掌 Jigezhang"
