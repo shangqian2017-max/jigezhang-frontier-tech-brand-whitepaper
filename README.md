@@ -14,7 +14,8 @@
 
 ## 阅读与下载
 
-- [完整研究 PDF](report/击个掌_前沿科技企业品牌建设白皮书_2026研究版1.1_图文版.pdf)
+- [下载完整研究 PDF（V1.1 正式版）](https://github.com/shangqian2017-max/jigezhang-frontier-tech-brand-whitepaper/releases/download/v1.1/jigezhang-whitepaper-2026-v1.1.pdf)
+- [V1.1 发布页与整包下载](https://github.com/shangqian2017-max/jigezhang-frontier-tech-brand-whitepaper/releases/tag/v1.1)
 - [可检索的全文](report/白皮书全文.md)
 - [来源索引](sources/references.csv)
 - [引用信息](CITATION.cff)
@@ -65,4 +66,4 @@ Jigezhang studies brand strategy and design for frontier technology companies, w
 
 击个掌研究团队（2026）。《前沿科技企业品牌建设白皮书：中国与全球产业观察、融资后与上市前的品牌方法及AI原生双界面系统》。2026研究版1.1。
 
-发布地址：https://github.com/shangqian2017-max/jigezhang-frontier-tech-brand-whitepaper 。版权所有，引用与复用范围见 RIGHTS.md。
+版本发布地址：https://github.com/shangqian2017-max/jigezhang-frontier-tech-brand-whitepaper/releases/tag/v1.1 。版权所有，引用与复用范围见 RIGHTS.md。
